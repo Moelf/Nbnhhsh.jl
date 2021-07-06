@@ -1,4 +1,5 @@
 # Nbnhhsh
+[![Build Status](https://github.com/Moelf/Nbnhhsh.jl/workflows/CI/badge.svg)](https://github.com/Moelf/Nbnhhsh.jl/actions)
 
 # Example
 
